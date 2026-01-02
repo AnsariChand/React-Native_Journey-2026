@@ -10,3 +10,19 @@ A variable is like a box that stores data.
 
 📦 Box name = variable name
 📄 Inside box = value
+
+🧠 Real-Life Example
+Name box  →  "Chand"
+Age box   →  18
+
+Computer also works like this.
+
+🟨 How to Create a Variable in JavaScript
+
+JavaScript has 3 ways:
+
+var ❌ (old – avoid)
+
+let ✅
+
+const ✅
