@@ -125,4 +125,45 @@
 //     console.log(a);
 // }
 
-// Q5
+// // Q5
+// if (true){
+//     var b = 20;
+// }
+// console.log(b);
+// // output = 20
+
+// // Q6
+// {
+//     const c = 30;
+//     // console.log(c);
+// }
+// console.log(c);
+
+// Q7
+// const appName = "Yoga App";
+// let userAge = 18;
+// // appName = "My Yoga App"
+// userAge = 25
+// console.log(appName);
+// console.log(userAge);
+
+// // Q8
+// const user = {name: "Chand", age:26};
+// user.age =19;
+
+// console.log(user);
+// console.log(user.age);
+
+// Q9
+// const App = () => {
+//     const title = "Home Screen";
+//     let count = 0;
+
+//     count = count + 1;
+
+//     console.log(title, count);
+   
+// };
+
+// Q10
+
