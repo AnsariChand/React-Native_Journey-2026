@@ -112,3 +112,41 @@ while (i <= 5) {
     console.log(i);
     i++;
 }
+
+⚠️ Important:
+i++ bhool gaye → infinite loop (kabhi band nahi hoga)
+
+📝 Practice – while loop
+Exercise 4
+
+👉 1 se 10 tak print karo
+
+let i = 1;
+
+while (i <= 10) {
+    console.log(i);
+    i++;
+}
+
+Exercise 5
+
+👉 Sirf even numbers (2, 4, 6, 8, 10)
+
+let i = 2;
+
+while (i <= 10) {
+    console.log(i);
+    i += 2;
+}
+
+
+🔁 for vs while (Easy Comparison)
+for loop	while loop
+Count pehle se pata	Count clear nahi
+Short & clean	Condition based
+Mostly used	Special cases
+🎯 Mini Test (Try Yourself)
+
+❓ Q1: 5 se 15 tak odd numbers print karo
+❓ Q2: "Hello" 5 baar print karo
+❓ Q3: while loop se 10 se 1 tak print karo

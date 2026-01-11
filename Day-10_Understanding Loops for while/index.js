@@ -21,5 +21,34 @@
 // let i = 1;
 // while (i <=5){
 //     console.log(i);
+//     i++;
+// }
+
+// let i = 1;   
+// while(i<=10){
+//     console.log("Are You Understand");
 //     i++
+// }
+// Ex5
+
+// let i = 2;
+// while (i <= 10){
+//     console.log(i);
+//     i+= 2;
+// }
+
+// for (let i = 5; i <= 15; i++){
+//     if (i % 2 !== 0){
+//         console.log(i);
+//     }
+// }
+
+// for (let i = 5; i <= 15; i +=2){
+//     console.log(i);
+// }
+
+// let i = 5;
+// while (i <= 15){
+//     console.log(i);
+//     i += 2;
 // }
